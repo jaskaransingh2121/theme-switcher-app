@@ -26,5 +26,5 @@ This app allows users to toggle between light and dark themes with a smooth tran
 ---
 
 ## 🚀 Live Demo
-[Click Here to View the App](https://jaskaransingh2121.github.io/theme-switcher-app/)  
+[Click Here to View the App](https://switchify-theme.netlify.app/)  
 
